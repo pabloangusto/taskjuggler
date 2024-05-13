@@ -153,7 +153,7 @@ task WMGame "Web & Mobile Game" {
       actual:effort 11d
       allocate dev1, dev2
       depends WMGame.tback.tBEd
-      journalentry 2024-05-28 "Game logic completed before deadline" {
+      journalentry 2024-03-28 "Game logic completed before deadline" {
         author boss
         alert green
         summary "The team has ended the game logic before deadline."
