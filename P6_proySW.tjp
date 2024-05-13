@@ -20,7 +20,7 @@ project pSix "Web Game"  2024-02-10 +4.5m {
   # the project reports. If not specified, the current day will be
   # used, but this will likely be outside of the project range, so it
   # can't be seen in the reports.
-  now 2023-05-13-13:00
+  now 2024-05-13-13:00
   # The currency for all money values is the US Dollar.
   currency "EUR"
 
